@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\workerApp\bin\publish\appsettings.Development.json
+C:\Users\User\Desktop\workerApp\bin\publish\appsettings.json
+C:\Users\User\Desktop\workerApp\bin\publish\workerApp.pdb
+C:\Users\User\Desktop\workerApp\bin\publish\turacican.Mydll.pdb
+C:\Users\User\Desktop\workerApp\bin\publish\workerApp.exe
